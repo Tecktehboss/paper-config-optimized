@@ -39,7 +39,7 @@ anticheat:
     # As of 1.18 some ores are generated much higher.
     # Please adjust the max-block-height setting at your own discretion.
     # https://minecraft.wiki/w/Ore might be helpful.
-    max-block-height: 64
+    max-block-height: 128
     replacement-blocks:
     # Chest is a tile entity and can't be added to hidden-blocks in engine-mode: 2.
     # But adding chest here will hide buried treasures, if max-block-height is increased.
