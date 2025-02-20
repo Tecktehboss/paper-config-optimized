@@ -35,6 +35,14 @@ anticheat:
     - deepslate_lapis_ore
     - redstone_ore
     - deepslate_redstone_ore
+    - ancient_debris
+    - bone_block
+    - glowstone
+    - magma_block
+    - nether_bricks
+    - nether_gold_ore
+    - nether_quartz_ore
+    - polished_blackstone_bricks
     lava-obscures: false
     # As of 1.18 some ores are generated much higher.
     # Please adjust the max-block-height setting at your own discretion.
@@ -61,6 +69,12 @@ anticheat:
     - smooth_basalt
     - stone
     - tuff
+    - basalt
+    - blackstone
+    - gravel
+    - netherrack
+    - soul_sand
+    - soul_soil
     update-radius: 2
     use-permission: false
   obfuscation:
